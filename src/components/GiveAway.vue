@@ -85,7 +85,7 @@ Vue.use(Vuex);
 const tmi = require("tmi.js");
 const opts = {
   options: {
-    clientId: "88oq59mpt65nzq3mfv39e0znjxfzbh"
+    clientId: ""
   },
   identity: {
     username: "",
